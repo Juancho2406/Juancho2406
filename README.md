@@ -45,5 +45,5 @@ Estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=onedark&hide_title=true" alt="Estadísticas de GitHub de tu-usuario"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juancho2406&show_icons=true&theme=onedark&hide_title=true" alt="Estadísticas de GitHub de tu-usuario"/>
 </div>
