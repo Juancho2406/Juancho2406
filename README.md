@@ -45,10 +45,6 @@ Aquí están las tecnologías clave con las que he trabajado:
 
 ### 🚀 Proyectos y Contribuciones
 
-* **Repositorio 1:** [Enlace a tu proyecto más relevante]. Breve descripción del proyecto y las tecnologías usadas.
-* **Repositorio 2:** [Enlace a otro proyecto destacado]. Un párrafo sobre el proyecto, con énfasis en el problema que resuelve.
-* **(Opcional) Blog/Artículos:** [Enlace a algún artículo o post que hayas escrito]. Un ejemplo de cómo compartes tu conocimiento.
-
 ---
 
 ### 📫 Contacto
